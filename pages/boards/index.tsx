@@ -28,10 +28,6 @@ const boardTypes = {
     title: '회고 게시판',
     description: '경험을 돌아보고 공유하는 공간입니다.',
   },
-  wedding: {
-    title: '결혼 게시판',
-    description: '결혼과 관련된 정보와 경험을 공유하는 공간입니다.',
-  },
   dailyMission: {
     title: '데일리 미션 게시판',
     description: '일상적인 목표와 도전을 공유하고 응원하는 공간입니다.',

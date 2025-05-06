@@ -99,8 +99,6 @@ export default function BoardPage() {
         return '아이디어';
       case 'reflection':
         return '회고';
-      case 'wedding':
-        return '결혼';
       case 'dailyMission':
         return '데일리 미션';
     }

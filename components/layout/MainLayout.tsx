@@ -76,7 +76,6 @@ const menuItems = [
   { text: '목표 목록', icon: <FlagIcon />, href: '/', emoji: '🎯' },
   { text: 'AI Chat', icon: <HomeIcon />, href: '/ai-chat', emoji: '🏠' }, 
   { text: '메모 게시판', icon: <IdeaIcon />, href: '/boards?type=idea', emoji: '💡' },
-  { text: 'L 게시판', icon: <WeddingIcon />, href: '/boards?type=wedding', emoji: '💑' },
   { text: '데일리 미션', icon: <MissionIcon />, href: '/boards?type=dailyMission', emoji: '✨' },
   { text: '링크 게시판', icon: <LinkIcon />, href: '/links', emoji: '🔗' },
   { text: '정보 게시판', icon: <InfoIcon />, href: '/boards?type=info', emoji: '📢' },  
