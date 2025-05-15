@@ -1,10 +1,13 @@
 # FrontTeamTask - 프론트엔드 개발자 일정 관리 시스템
 
-<img src="public/images/thumb_front1.png" alt="FrontTeamTask" width="600"/> <br>
+- 일정관리 <br><br>
+  <img src="public/images/thumb_front1.png" alt="FrontTeamTask" width="600"/> <br>
 
-<img src="public/images/thumb_front2.png" alt="FrontTeamTask" width="600"/> <br>
+- LLM1 <br><br>
+  <img src="public/images/thumb_front2.png" alt="FrontTeamTask" width="600"/> <br>
 
-<img src="public/images/thumb_front3.png" alt="FrontTeamTask" width="600"/> <br>
+- LLM2 (Grounding with Google Search) <br><br>
+  <img src="public/images/thumb_front3.png" alt="FrontTeamTask" width="600"/> <br>
 
 ## 프로젝트 개요
 
